@@ -1,0 +1,21 @@
+{
+  "id": "ebagirov/titanic",
+  "id_no": 17988619,
+  "title": "Titanic",
+  "code_file": "titanic.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "matplotlib",
+    "pandas",
+    "plotly"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "c/titanic"
+  ]
+}
